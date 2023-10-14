@@ -17,6 +17,22 @@ Se debe crear al menos una estructura al que se llamará producto, donde conteng
 * estado (Caracter) donde A = Aprobado y R = reprobado
 * descuento (real)
 
+# la opcion No.1 agregar producto
+funciona para almacenar productos en un archivo txt, aqui te pedira que ingrese datos como:
+* Nombre (del producto)
+* Identificador (el codigo con el que se guardara)
+* Precio
+* Proveedor
+* Existencia
+* Estado (A: aprobado, R: Rechazado)
+* Descuento
+
+# La opcion No.2 Buscar producto
+Ayudara a la facil obtencion de datos que se almacenaran en el archivo txt y se puede buscar por codigo y por nombre
+
+# La opcion No.3 modificar producto
+Esto ayudara a que si se presenta una alteracion en el precio o stock del producto se pueda cambiar para tener los datos actualizados
+
 # Acontinuacion el ejercicio en python
 ```py
 def guardar_inventario(inventario):
