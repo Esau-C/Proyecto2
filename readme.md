@@ -33,6 +33,9 @@ Ayudara a la facil obtencion de datos que se almacenaran en el archivo txt y se 
 # La opcion No.3 modificar producto
 Esto ayudara a que si se presenta una alteracion en el precio o stock del producto se pueda cambiar para tener los datos actualizados
 
+# Mas datos:
+para ejecutar el programa se necesita tener python instalado y este programa fue elaborado despues de hacer investigaciones sobre como realizar algunas funciones
+
 # Acontinuacion el ejercicio en python
 ```py
 def guardar_inventario(inventario):
